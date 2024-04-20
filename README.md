@@ -19,7 +19,7 @@ Access the .ini to edit dimensions and colors.
 Uncomment the corresponding line or variables to enable different color scheme.
 
 ## The Player
-The media player included uses [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started). Both browser extension and Rainmeter plugin must be installed.
+The media player included uses [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started). Both browser extension and [Rainmeter plugin](https://github.com/keifufu/WebNowPlaying-Rainmeter/releases/tag/2.0.7) must be installed.
 
 ## Credits
 Special thanks to people on [Rainmeter discord server](https://discord.gg/rainmeter) who helped me with this project.
