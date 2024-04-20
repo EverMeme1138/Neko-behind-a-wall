@@ -13,7 +13,7 @@ A more compact version of A Simple Cake suit.
 
 ## Change color
 Access the .ini to edit dimensions and colors.
-Uncomment the corresponding line or variables to enable different color scheme
+Uncomment the corresponding line or variables to enable different color scheme.
 
 ## The Player
 The media player included uses [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started). Both browser extension and Rainmeter plugin must be installed.
