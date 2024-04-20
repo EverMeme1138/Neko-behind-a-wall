@@ -1,6 +1,9 @@
 # Neko-behind-a-wall
 A more compact version of A Simple Cake suit.
 
+![image](https://github.com/EverMeme1138/Neko-behind-a-wall/blob/main/image.png)
+![image_slider](https://github.com/EverMeme1138/Neko-behind-a-wall/blob/main/image_slider.png)
+
 ## Minimum Requirements
 - Rainmeter 4.5.18
 
